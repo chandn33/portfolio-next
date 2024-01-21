@@ -77,15 +77,6 @@ text-align: center;
 padding: 10px;
 letter-spacing: 4px;
 }
-h2 {
-    font-size: 40px;
-    font-weight: bold;
-    color: var(--primary-color);
-    font-family: var(--main-font);
-    text-align: center;
-    padding: 10px;
-    letter-spacing: 4px;
-}
 h3 {
     font-size: 18px;
     color: #000;
